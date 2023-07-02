@@ -9,7 +9,7 @@ class OpenApp(ctk.CTk):
 
         # the container is where we'll stack a bunch of frames
         # on top of each other, then the one we want visible
-        # will be raised above the others
+        # will be raised above the other
         container = ctk.CTkFrame(self)
         container.pack(side="top", fill="both", expand=True)
         container.grid_rowconfigure(0, weight=1)

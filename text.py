@@ -1,7 +1,4 @@
-from rembg import remove
-import cv2
-import numpy as np
-from PIL import Image
+
 
 import cv2
 

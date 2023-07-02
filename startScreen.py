@@ -2,7 +2,7 @@ import tkinter
 from tkinter import *
 from PIL import Image, ImageTk
 
-import customtkinter as ctk  # python 3
+import customtkinter as ctk
 
 
 class StartScreen(ctk.CTkFrame):
